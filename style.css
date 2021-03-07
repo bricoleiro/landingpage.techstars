@@ -1,0 +1,46 @@
+
+body {
+	text-align: center;
+	font-family: verdana;
+	color: White;
+	background-image: url("imagens/olaria.jpg");
+	background-size: cover;
+}
+
+h1 {font-size:70px;
+	padding-top: 300px;
+	text-shadow: 2px 2px 2px gray;
+	margin-bottom: 15px;
+}
+
+p {font size:150px;
+}
+
+.botao {
+	text-decoration: none;
+	background-color: green;
+	color: white;
+	font-size:20px;
+	padding: 10px 15px 10px 15px;
+	border-radius: 4px;
+}
+
+.botao: hover {
+	background-color: red;
+}
+
+.lista { 
+	list-style : none;
+	padding-left: o;
+	margin-top: 50px; 
+ }
+
+ .lista li { 
+ 	display: inline;
+  }
+
+  .lista a {
+  	color: white;
+  	font-size: 25px;
+  	align-items: o;
+  }
